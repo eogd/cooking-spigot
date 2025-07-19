@@ -1,5 +1,0 @@
-# CookingPlugin 插件配置
-settings:
-  # 设置为 true, 烹饪成功后会消耗配方纸。
-  # 设置为 false, 烹饪成功后会保留配方纸。
-  consume-recipe-on-use: false
